@@ -1,0 +1,86 @@
+# GitHub Ready Cleanup Report
+
+File/folder yang sengaja tidak dimasukkan ke ZIP GitHub Ready:
+
+- `PATCH_FILE_LIST_V13_19.txt` (0.00 MiB) — large/old/private/generated file omitted from repo source
+- `data/all-top-category-boost-v13-10.json` (27.58 MiB) — large/old/private/generated file omitted from repo source
+- `data/all-top-category-boost-v13-11.json` (66.44 MiB) — large/old/private/generated file omitted from repo source
+- `data/all-top-category-boost-v13-14.json` (40.96 MiB) — large/old/private/generated file omitted from repo source
+- `data/feature-boost-math-language-trend-v13-11.json` (21.04 MiB) — large/old/private/generated file omitted from repo source
+- `data/knowledge_sources/al-quran-sebagai-sumber-ajaran-islam.pdf` (0.04 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/knowledge_sources/bab-2-studi-al-quran.pdf` (0.07 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/knowledge_sources/buku-ulumul-quran-untuk-pemula.pdf` (0.41 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/knowledge_sources/makna-al-quran-secara-umum-dan-kedudukannya.pdf` (0.05 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/knowledge_sources/studi-al-quran.pdf` (0.35 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/language-variants-id.json` (20.09 MiB) — large/old/private/generated file omitted from repo source
+- `data/training-shards/dataset_training_ai_alquran_all_part_001.json` (0.96 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_002.json` (1.05 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_003.json` (1.01 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_004.json` (0.86 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_005.json` (0.93 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_006.json` (0.89 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_007.json` (0.88 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_008.json` (0.85 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_009.json` (1.00 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_010.json` (0.91 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_011.json` (0.91 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_012.json` (0.91 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_013.json` (1.22 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_014.json` (1.51 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_015.json` (1.57 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_016.json` (1.48 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_017.json` (1.61 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_018.json` (2.00 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_019.json` (2.31 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_020.json` (2.31 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_021.json` (2.31 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_022.json` (2.31 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_023.json` (2.14 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_024.json` (2.14 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_025.json` (2.14 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_026.json` (2.03 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_027.json` (1.96 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_028.json` (1.98 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_029.json` (2.10 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_030.json` (2.10 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_031.json` (2.14 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_032.json` (2.02 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_033.json` (2.02 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_034.json` (2.28 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_035.json` (2.22 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_036.json` (2.23 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_037.json` (2.12 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_038.json` (2.43 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_039.json` (2.67 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_040.json` (2.50 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_041.json` (2.56 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_042.json` (2.47 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_043.json` (2.37 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_044.json` (2.47 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_045.json` (2.37 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_046.json` (2.32 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_047.json` (2.70 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_048.json` (2.64 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_049.json` (2.52 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_050.json` (2.51 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_051.json` (2.51 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_052.json` (2.51 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_053.json` (2.49 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_054.json` (2.49 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_055.json` (2.46 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_056.json` (2.48 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_057.json` (3.02 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_058.json` (3.02 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_059.json` (3.01 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_060.json` (3.03 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_061.json` (2.88 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_062.json` (2.78 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_063.json` (2.76 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_064.json` (3.08 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_065.json` (3.28 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_066.json` (3.28 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_067.json` (3.12 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/training-shards/dataset_training_ai_alquran_all_part_068.json` (1.38 MiB) — large/source dataset folder; put in Release DataPack if needed
+- `data/universal-knowledge.json` (367.00 MiB) — large/old/private/generated file omitted from repo source
+- `storage/index/hybrid-vector-lite-index.json` (13.40 MiB) — runtime storage/index/logs; regenerated locally
+- `storage/logs/.gitkeep` (0.00 MiB) — runtime storage/index/logs; regenerated locally

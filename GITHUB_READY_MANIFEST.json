@@ -1,0 +1,7 @@
+{
+  "name": "NusaMind AI Flash V13.20 GitHub Ready Source",
+  "copied_files": 249,
+  "omitted_files": 82,
+  "max_file_size_mib": 18.976563453674316,
+  "notes": "Large datasets, runtime storage, logs, archives, and secrets are omitted. Use DataPack Release for large data."
+}
